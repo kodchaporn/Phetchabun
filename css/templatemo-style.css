@@ -32,7 +32,8 @@ p:last-child { margin-bottom: 0; }
 
 .tm-container-outer {
     max-width: 1400px;
-    margin: 0 auto;    
+    margin: 0 auto;
+    margin-top: 30px;    
 }
 
 .tm-content-box { box-shadow: 0 0 3px rgba(0, 0, 0, 0.15); }
